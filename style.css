@@ -1,0 +1,153 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/assets/bg.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    
+}
+.main{
+    margin-top: -70px;
+}
+.logo{
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.heading{
+    margin-left: 360px;
+    margin-top: 100px;
+    color: white;
+}
+#search{
+    margin-top: 30px;
+    margin-left: 380px;
+    padding: 15px;
+    width: 800px;
+    border-radius: 10px;
+}
+#srcicn{
+    color: rgb(111, 111, 111);
+    margin-left: 390px;
+    position: absolute;
+    margin-top: 41px;
+}
+#locate{
+    color: rgb(111, 111, 111);
+    position: absolute;
+    margin-left: -50px;
+    margin-top: 43px;
+}
+.locateme{
+    color: rgb(111, 111, 111);
+    margin-left: 1115px;
+    position: absolute;
+    margin-top: -23px;
+    font-size: small;
+
+}
+.gplay{
+    width: 200px;
+    margin-left: -640px;
+    margin-top: 230px;
+    position: absolute;
+}
+.appstore{
+    width: 200px;
+    margin-left: -400px;
+    margin-top: 230px;
+    position: absolute;
+}
+.nav{
+    float: right;
+    padding: 20px;
+}
+.nav button{
+    margin-left: 20px;
+}
+.pop{
+    position: absolute;
+    margin-left: 670px;
+    margin-top: 30px;
+    font-size: large;
+    color: rgb(255, 255, 255);
+}
+.loc{
+    position: absolute;
+    font-size: medium;
+    margin-left: 350px;
+    margin-top: 75px;
+    color: rgb(255, 255, 255);
+    word-spacing: 20px;
+}
+.feat{
+    background-color: white;
+    height: 200px;
+    width: 100%;
+    margin-top: 250px;
+}
+
+.feat div{
+    background-color: rgb(255, 255, 255);
+    height: 84px;
+    width: 1536px;
+}
+.con1 img{
+    position: absolute;
+    margin-top: -60px;
+    width: 130px;
+    margin-left: 150px;
+}
+.nomin{
+    margin-left: 300px;
+    margin-top: 80px;
+    position: absolute;
+    font-size: 24px;
+    color: rgb(255, 98, 0);
+}
+.des1{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 120px;
+}
+.con2 img{
+    position: absolute;
+    margin-top: -140px;
+    width: 130px;
+    margin-left: 650px;
+}
+.livo{
+    margin-left: 800px;
+    position: absolute;
+    font-size: 24px;
+    margin-top: -8px;
+    color: rgb(255, 98, 0);
+}
+.des2{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 30px;
+}
+.con3 img{
+    position: absolute;
+    margin-top: -185px;
+    width: 130px;
+    margin-left: 1050px;
+}
+.lifd{
+    margin-left: 1200px;
+    position: absolute;
+    font-size: 24px;
+    margin-top: -90px;
+    color: rgb(255, 98, 0);
+}
+.des3{
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: -50px;
+}
+.con1{
+    margin-left: -120px;
+}
+.con2{
+    margin-left: -100px;
+}
